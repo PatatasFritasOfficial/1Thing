@@ -15,7 +15,7 @@ Most apps overwhelm you with lists, tags, priorities, reminders, and integration
 
 ## How to run it
 
-1. Download Source code (zip) file from the Releases tab or visit [our site](https://patatasfritasofficial.github.io/1Thing).
+1. Download Source code (zip) file from the Releases tab or visit [our website](https://patatasfritasofficial.github.io/1Thing).
 2. Extract the zip and open `index.html` in any modern web browser.
 3. That's it. No installation. No sign-up. No account. No internet required after first load.
 
