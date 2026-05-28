@@ -19,7 +19,7 @@ Most apps overwhelm you with lists, tags, priorities, reminders, and integration
 2. Extract the zip and open `index.html` in any modern web browser.
 3. That's it. No installation. No sign-up. No account. No internet required after first load.
 
-Optional: Bookmark the HTML file or our site for easier access ;)
+Optional: Bookmark the HTML file or our website for easier access ;)
 
 ---
 
